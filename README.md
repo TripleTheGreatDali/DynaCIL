@@ -1,2 +1,3 @@
-# DynaCIL
-Notice: The source code will be publicly available upon manuscript acceptance.
+# 🧠 DynaCIL
+
+📢 **Notice:** The complete source code will be released **upon manuscript acceptance**.
